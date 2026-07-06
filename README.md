@@ -1,3 +1,4 @@
+## APAC Distributor Performance Dashboard (Portfolio Project) 
 Note: This is a case study exercise. The dataset is completely synthetic/dummy
 data created to match the structure of an executive reporting dashboard I build
 professionally. The technical approach, data model design, and DAX logic are authentic.
